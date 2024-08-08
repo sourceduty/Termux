@@ -1,4 +1,4 @@
-![Termux](https://github.com/user-attachments/assets/e48edace-c6ab-45af-8f8b-752173d0ba4b)
+![Smartphone](https://github.com/user-attachments/assets/3b854a51-6473-4807-835d-4d23218ef984)
 
 >  A versatile terminal emulator and Linux environment app designed for Android devices.
 
