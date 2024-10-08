@@ -220,6 +220,10 @@ For those interested in utilizing AI on Android devices, Termux is a powerful to
 Running GPT models directly on smartphones comes with its challenges due to the significant computational requirements. Most GPT models require substantial processing power and memory, which can strain smartphone hardware, limiting the size and complexity of models that can run efficiently on these devices. However, for lightweight tasks such as basic text generation or small-scale chatbot implementations, Termux and Python scripts can enable users to perform rudimentary GPT tasks. Additionally, many developers use this setup to call APIs from larger, more powerful cloud-based models, allowing them to utilize the full power of GPT without overburdening the phone’s hardware. This approach maximizes the device's capabilities while keeping up with AI trends and making advanced tools accessible to mobile users.
 
 #
+
+> Alex: "*I want Python-based Android smartphones for easier app and os development.*"
+
+#
 ### Related Links
 
 [Android App Simulator](https://github.com/sourceduty/Android_App_Simulator)
